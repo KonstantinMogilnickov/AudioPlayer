@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AudioPlayer</string>
+
+    <string-array name="Songs">
+        <item>Deutchland</item>
+        <item>Sonne</item>
+        <item>Лесник</item>
+        <item>Кукла колдуна</item>
+        <item>Седая ночь</item>
+    </string-array>
+</resources>
